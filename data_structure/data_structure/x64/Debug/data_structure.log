@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\DSA\data_structure\data_structure\data_structure\source\structure.cpp(71,17): error C2275: 'SLinkedList<int>': 預期的是運算式，而不是類型
+D:\DSA\data_structure\data_structure\data_structure\source\structure.cpp(70): message : 編譯 類別 樣板 成員函式 'void SLinkedList<int>::displayall(void) const' 期間
+D:\DSA\data_structure\data_structure\data_structure\source\main.cpp(15): message : 請參考正在進行編譯的函式 樣板 具現化 'void SLinkedList<int>::displayall(void) const'
+D:\DSA\data_structure\data_structure\data_structure\source\main.cpp(10): message : 請參考正在進行編譯的 類別 樣板 具現化 'SLinkedList<int>'
+  structure.cpp
+  正在產生程式碼...
